@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @olumideyemo
-- 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently working on building a portfolio of ML projects as I learn
-- 💞️ I’m looking to collaborate on open source projects for training, testing data sets with ml algorithms.
+- 👀 I’m interested in Machine Learning, and would like to train and refine the efficacy of machine learning algorithms.
+- 🌱 I’m currently working on building a portfolio of ML projects, that showcase my ability to repeatedly analyze data.
+- 💞️ Using practice to build my experience starting with what I understand and building towards what is uncomfortable.
 - 📫 How to reach me ...
 
 <!---
