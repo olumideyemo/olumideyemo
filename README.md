@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @olumideyemo
-- 👀 I’m interested in Machine Learning, and would like to train and refine the efficacy of machine learning algorithms.
-- 🌱 I’m curating a portfolio of ML projects, that showcase my ability to repeatedly analyze data and train ML models.
-- 💞️ Using practice to build my experience starting with what I understand and building towards what is uncomfortable.
+- 👋 Hi, I’m Lumi
+- 👀 I’m curious and interested in learning.
+- 🌱 Currrently taking a Data analytics course with other learners.
 <!--- - # 📫 How to reach me ...
 
 
